@@ -3,3 +3,7 @@
 //###########################   Programming Courses  ###################
 //######################################################################
 console.log("Bonjour tout le monde");
+let num1: number;
+num1 = 15;
+console.log(num1);
+console.log("Bonjour");
